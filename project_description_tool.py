@@ -23,9 +23,10 @@ DESCRIPTION_TEMPLATE = '''# WhatsApp iOS 项目描述
 - 需要对 WhatsApp 或海外 App 进行定制插件开发与扩展
 - 需要提取 WhatsApp 登录参数、会话信息或会话识别数据
 
-## 目标输出
+## 软件版本更新
 
-该项目描述工具将生成一份结构化说明文档，包含项目特点、目标组件与提取工具说明，方便后续开发与传播。
+- 网站地址：https://sayworld8.com/
+- 联系方式：tg @john20222222
 '''
 
 
