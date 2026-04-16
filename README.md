@@ -13,6 +13,12 @@
   - 6 段提取工具
   - 全参数提取工具
 
+## 项目演示
+
+[![WhatsApp iOS 项目演示](https://img.youtube.com/vi/d_D7xAVcewI/default.jpg)](https://www.youtube.com/shorts/d_D7xAVcewI)
+
+[查看完整演示视频](https://www.youtube.com/shorts/d_D7xAVcewI)
+
 ## 适用场景
 
 - 需要在 iOS 环境下实现 WhatsApp 直登或快速登录的项目
